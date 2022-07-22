@@ -1,0 +1,45 @@
+
+
+/************TagSelectors**************/
+
+  body
+  {
+      background-color: #F9F2ED;
+  }
+
+
+  h1
+  {
+    color: #66BFBF;
+  }
+
+  h3
+  {
+    color: #66BFBF;
+  }
+
+  hr
+  {
+    border-style: none;
+    border-top-style: dotted;
+    border-top-color: #8CC0DE;
+    border-top-width: 5px;
+    width:50%;
+  }
+
+
+/************Class Selectors**************/
+
+.picme
+{
+  background-color: #B3E8E5;
+}
+
+
+.picme:hover
+{
+  background-color: #B4FF9F;
+}
+
+
+/************Id Selectors**************/
